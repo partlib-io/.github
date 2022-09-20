@@ -1,8 +1,8 @@
-<center>
+<p align="center">
    
-<img src="../icon.png" alt="Icon" width=300 />
+<img src="../icon.png" alt="Icon" width=250 />
 
-</center>
+</p>
 
 # partlib.io
 
