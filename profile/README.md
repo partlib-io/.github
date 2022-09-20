@@ -1,5 +1,5 @@
 <center>
-![Icon](icon.png)
+![Icon](../icon.png)
 </center>
 
 # partlib.io
