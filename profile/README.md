@@ -1,3 +1,7 @@
+<center>
+![Icon](icon.png)
+</center>
+
 # partlib.io
 
 ### Platforms
