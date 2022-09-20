@@ -1,6 +1,6 @@
 <center>
    
-![Icon](../icon.png)
+<img src="../icon.png" alt="Icon" width=300 />
 
 </center>
 
