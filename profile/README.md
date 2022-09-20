@@ -1,5 +1,7 @@
 <center>
-![Icon](/.github/icon.png?raw=true)
+   
+![Icon](../icon.png)
+
 </center>
 
 # partlib.io
