@@ -1,6 +1,6 @@
 <p align="center">
    
-<img src="../icon.png" alt="Icon" width=250 />
+<img src="https://github.com/partlib-io/.github/icon.png" alt="Icon" width=250 />
 
 </p>
 
